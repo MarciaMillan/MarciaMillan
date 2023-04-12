@@ -22,9 +22,18 @@
   
 # Proyectos:
 
+## :snake: Python:
+
 ### :movie_camera: [Industria Audiovisual Argentina](https://github.com/MarciaMillan/Industria-audiovisual-argentina)
 
 ### :school_satchel: [Actividades culturales en Argentina](https://github.com/MarciaMillan/Analisis-de-la-industria-cultural)
+
+## :bookmark_tabs: Excel:
+### 🐑 [Movimiento ovino](https://github.com/MarciaMillan/analisis_movimiento_ovino)
+
+## :chart_with_upwards_trend: Looker studio:
+### 🛒 [Supermercados 2022](https://lookerstudio.google.com/s/l9GOa2s07Oo)
+
 
   
     
